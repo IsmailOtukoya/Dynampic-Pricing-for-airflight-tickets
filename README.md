@@ -29,10 +29,20 @@ The airline industry operates on dynamic pricing, adjusting ticket prices based 
 
 ## Repository Structure
 
-. ├── data/ # Dataset files ├── models/ # Trained models ├── notebooks/ # Jupyter notebooks for EDA and experimentation ├── pipeline/ # Modular scripts for data processing and model training │ ├── data_cleaning.py │ ├── feature_engineering.py │ ├── model_training.py │ └── model_evaluation.py ├── dashboards/ # Dashboard files and links ├── saved_models/ # Serialized machine learning models ├── visuals/ # Visualizations and flowcharts ├── README.md # Project documentation └── requirements.txt # Python dependencies
+├── data/ # Dataset files 
+├── models/ # Trained models 
+├── notebooks/ # Jupyter notebooks for EDA and experimentation 
+├── pipeline/ # Modular scripts for data processing and model training │ 
+├── data_cleaning.py │ 
+├── feature_engineering.py │ 
+├── model_training and model_evaluation.py 
+├── dashboards/ # Dashboard files and links 
+├── saved_models/ # Serialized machine learning models 
+├── visuals/ # Visualizations and flowcharts 
+├── README.md # Project documentation 
+└── requirements.txt # Python dependencies
 
-yaml
-Copy code
+
 
 ---
 
